@@ -54,6 +54,7 @@ header{
     margin:auto;
     height:40px;
     width:40px;
+    margin-left: 10px;
   }
   .menu{
     background-image:url('//ssl.gstatic.com/gb/images/i2_2ec824b0.png');
